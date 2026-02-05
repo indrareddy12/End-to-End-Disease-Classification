@@ -1,4 +1,4 @@
-# End-to-End-Chest-Cancer-Classification-using-MLflow-DVC-Public
+# End-to-End-Disease-Classification
 
 
 
